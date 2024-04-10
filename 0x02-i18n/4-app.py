@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A flask
+"""A simple flask app
 """
 
 
